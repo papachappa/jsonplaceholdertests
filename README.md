@@ -10,4 +10,4 @@ How to execute tests locally in Ubuntu 16.04/MacOS 10.13:
 - create virtualenv (python3 -m venv venv)
 - activate virtualenv (source venv/bin/activate)
 - install dependencies (pip3 install -r requirements.txt)
-- run PyTest tests from (pytest -vv .)
+- run PyTest tests from ~/jsontests (pytest -vv .)
